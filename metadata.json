@@ -1,0 +1,7 @@
+{
+  "name": "AI Voice Assistant",
+  "description": "A simple web interface to talk to a Vapi.ai voice assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
